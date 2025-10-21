@@ -1,0 +1,9 @@
+name: NetheriteBlocker
+version: '1.0.0'
+main: de.scholle.netheriteBlocker.Main
+api-version: '1.18'
+prefix: NetheriteBlocker
+load: STARTUP
+authors: [ Mobilestars ]
+description: Blocks Netherite usage
+website: https://modrinth.com/project/netheriteblocker
