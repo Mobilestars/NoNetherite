@@ -1,4 +1,4 @@
-name: NetheriteBlocker
+name: NoNetherite
 version: '1.0.0'
 main: de.scholle.netheriteBlocker.Main
 api-version: '1.18'
